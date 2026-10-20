@@ -7,7 +7,7 @@ Define and group batches of images, segmentations and queries.
 Based on:
 https://github.com/chenxi116/TF-phrasecut-public/blob/master/build_batches.py
 """
-
+'this is test for pycharm'
 import os
 import re
 # import cv2
